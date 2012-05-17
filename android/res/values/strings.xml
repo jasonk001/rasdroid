@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Droid player</string>
+    
+    <string name="album_reader_activity">Albums</string>
+    <string name="artist_reader_activity">Artists</string>
+    <string name="nowplaying_reader_activity">Now Playing</string>
+    <string name="track_reader_activity">Tracks</string>
+    <string name="settings_activity">Settings</string>
+        
+    <string name="no_album_feed">Loading albums&#8230;</string>
+    <string name="no_artists_feed">Loading artists&#8230;</string>
+    <string name="no_track_feed">Loading tracks&#8230;</string>
+    
+    <string name="msg_media_updated">Media index files have been cached&#8230;</string>
+    <string name="msg_track_removed">Track removed from playlist&#8230;</string>
+    <string name="msg_track_added">Track added to playlist&#8230;</string>
+    <string name="msg_cant_remove">Can\'t remove the current playing track&#8230;</string>
+    
+    <string name="menu_albums">Albums</string>
+    <string name="menu_artists">Artists</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_nowplaying">Playlist</string>
+    <string name="menu_sync">Sync</string>
+    
+    <string name="template_user_agent" translatable="false">"%1$s/%2$s (Linux; Android)"</string>
+    
+    <string name="settings_url">Raspberry-Pi IP Address</string>
+    <string name="settings_url_hint">192.168.200.131</string>
+</resources>
